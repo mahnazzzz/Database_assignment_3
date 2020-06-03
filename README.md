@@ -1,4 +1,4 @@
-# Database_assignment_3
+You can find the assignment [Here](https://github.com/datsoftlyngby/soft2019spring-databases/blob/master/assignments/assignment3.md)
 
 # Assignment 3
 
